@@ -10,3 +10,4 @@ public class DisasterAlertApplication {
 		SpringApplication.run(DisasterAlertApplication.class, args);
 	}
 }
+
